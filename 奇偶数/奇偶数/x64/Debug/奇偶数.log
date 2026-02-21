@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\c\奇偶数\奇偶数\源.cpp(34,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  奇偶数.vcxproj -> E:\c\奇偶数\x64\Debug\奇偶数.exe
